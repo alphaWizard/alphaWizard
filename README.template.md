@@ -7,7 +7,7 @@
 
 Hey there 👋
 
-I’m Arpit, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+I’m Arpit, an IIT Guwahati BTech Computer science graduate, and now a software engineer at Microsoft.
 
 Want to know more about me? [Check out my portfolio.](https://github.com/alphaWizard)
 
