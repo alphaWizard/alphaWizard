@@ -57,7 +57,7 @@ Want to know more about me? [Check out my portfolio.](https://github.com/alphaWi
 <br>
 <br>
 
-## 💼 Skills
+<!-- ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
@@ -114,7 +114,7 @@ Want to know more about me? [Check out my portfolio.](https://github.com/alphaWi
 
 </details>
 
-<br>
+<br> -->
 
 ## 📣 How about an Office quote before you go?
 
