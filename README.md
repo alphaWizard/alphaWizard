@@ -3,7 +3,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/alphaWizard/alphaWizard)](https://github.com/alphaWizard)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)]()
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/arpit-gupta-459064140/)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
+<!-- [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer) -->
 
 Hey there 👋
 
@@ -21,7 +21,7 @@ Want to know more about me? [Check out my portfolio.](https://github.com/alphaWi
 
 <br>
 
-## 📌 Pinned Repositories
+<!-- ## 📌 Pinned Repositories
 
 <br>
 
@@ -39,7 +39,7 @@ Want to know more about me? [Check out my portfolio.](https://github.com/alphaWi
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=alphaWizard&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<br>
+<br> -->
 <br>
 
 ## &#x1f4c8; GitHub Stats
