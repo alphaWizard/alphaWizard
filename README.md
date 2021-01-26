@@ -10,44 +10,6 @@ Hey there 👋
 I’m Arpit, an IIT Guwahati BTech Computer science graduate, and now a software engineer at Microsoft.
 
 Want to know more about me? [Check out my portfolio.](https://github.com/alphaWizard)
-
-<!-- ## 📝 Latest Blog Posts
-
-<br> -->
-
-<!-- BLOG-POST-LIST:START -->
-- [Creating a Killer GitHub Profile README Part 2](https://blog.braydoncoyer.dev/creating-a-killer-github-profile-readme-part-2)
-- [The cite HTML Tag](https://blog.braydoncoyer.dev/the-cite-html-tag)
-- [Creating a Killer GitHub Profile README Part 1](https://blog.braydoncoyer.dev/creating-a-killer-github-profile-readme-part-1)
-- [No Code: Build Games with GameSalad](https://blog.braydoncoyer.dev/no-code-build-games-with-gamesalad)
-- [The kbd HTML Tag](https://blog.braydoncoyer.dev/the-kbd-html-tag)
-<!-- BLOG-POST-LIST:END -->
-
-<!-- <br> -->
-
-<!-- ## 📌 Pinned Repositories
-
-<br>
-
-<!-- ## 📌 Pinned Repositories
-
-<br>
-
-<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=alphaWizard&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/braydoncoyer/ng-limeade">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=alphaWizard&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/braydoncoyer/officeapi">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=alphaWizard&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br> -->
 <br>
 
 ## &#x1f4c8; GitHub Stats
