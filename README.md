@@ -10,7 +10,7 @@ Hey there 👋
 I’m Arpit, an IIT Guwahati BTech Computer science graduate, and now a software engineer at Microsoft.
 
 Want to know more about me? [Check out my portfolio.](https://github.com/alphaWizard)
-<br>
+
 
 ## &#x1f4c8; GitHub Stats
 
@@ -24,7 +24,6 @@ Want to know more about me? [Check out my portfolio.](https://github.com/alphaWi
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=alphaWizard&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
 </a>
 
-<br>
 <br>
 
 <!-- ## 💼 Skills
@@ -88,9 +87,9 @@ Want to know more about me? [Check out my portfolio.](https://github.com/alphaWi
 
 ## 📣 How about an Office quote before you go?
 
-> Two eyes. Two ears. A chin. A mouth. Ten fingers. Two nipples. A butt, two kneecaps, a penis. I've just described to you the Loch Ness monster. And the reward for his capture? All the riches in Scotland. So I have one question: Why are you here?
+> I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.
 >
-> <p>- Creed Bratton</p>
+> <p>- Angela Martin</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
