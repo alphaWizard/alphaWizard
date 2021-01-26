@@ -11,15 +11,15 @@ I’m Arpit, a senior full-stack engineer, creative coder and self-proclaimed de
 
 Want to know more about me? [Check out my portfolio.](https://github.com/alphaWizard)
 
-## 📝 Latest Blog Posts
+<!-- ## 📝 Latest Blog Posts
 
-<br>
+<br> -->
 
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
 
-<br>
+<!-- <br> -->
 
 <!-- ## 📌 Pinned Repositories
 
