@@ -11,40 +11,6 @@ I’m Arpit, an IIT Guwahati BTech Computer science graduate, and now a software
 
 Want to know more about me? [Check out my portfolio.](https://github.com/alphaWizard)
 
-<!-- ## 📝 Latest Blog Posts
-
-<br> -->
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
-<!-- <br> -->
-
-<!-- ## 📌 Pinned Repositories
-
-<br>
-
-<!-- ## 📌 Pinned Repositories
-
-<br>
-
-<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=alphaWizard&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/braydoncoyer/ng-limeade">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=alphaWizard&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/braydoncoyer/officeapi">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=alphaWizard&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br> -->
-<br>
 
 ## &#x1f4c8; GitHub Stats
 
@@ -58,7 +24,6 @@ Want to know more about me? [Check out my portfolio.](https://github.com/alphaWi
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=alphaWizard&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
 </a>
 
-<br>
 <br>
 
 <!-- ## 💼 Skills
