@@ -87,9 +87,9 @@ Want to know more about me? [Check out my portfolio.](https://github.com/alphaWi
 
 ## 📣 How about an Office quote before you go?
 
-> Did I stutter?
+> It has to be official, and it has to be urine.
 >
-> <p>- Stanley Hudson</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
