@@ -87,9 +87,9 @@ Want to know more about me? [Check out my portfolio.](https://github.com/alphaWi
 
 ## 📣 How about an Office quote before you go?
 
-> Bears, Beets, Battlestar Galactica.
+> There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
 >
-> <p>- Jim Halpert</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
