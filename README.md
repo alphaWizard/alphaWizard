@@ -9,7 +9,7 @@ Hey there 👋
 
 I’m Arpit, an IIT Guwahati BTech Computer Science graduate, and now a software engineer at Hotstar, working on its Content Platform backend services. Previously, I worked at Microsoft on the Azure-Arc enabled Kubernetes service offering from Azure.
 
-Want to know more about me? [Check out my portfolio.](https://github.com/alphaWizard)
+<!-- Want to know more about me? [Check out my portfolio.](https://github.com/alphaWizard) -->
 
 
 ## &#x1f4c8; GitHub Stats
