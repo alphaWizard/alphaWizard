@@ -87,9 +87,9 @@ I’m Arpit, an IIT Guwahati BTech Computer Science graduate, and now a software
 
 ## 📣 How about an Office quote before you go?
 
-> I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.
+> I am immensely proud of what I did for that turtle!
 >
-> <p>- Angela Martin</p>
+> <p>- Kevin Malone</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
