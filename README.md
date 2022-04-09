@@ -87,7 +87,7 @@ I’m Arpit, an IIT Guwahati BTech Computer Science graduate, and now a software
 
 ## 📣 How about an Office quote before you go?
 
-> And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
+> Well, Happy Birthday Jesus. Sorry your party’s so lame.
 >
 > <p>- Michael Scott</p>
 
