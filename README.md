@@ -87,7 +87,7 @@ I’m Arpit, an IIT Guwahati BTech Computer Science graduate, and now a software
 
 ## 📣 How about an Office quote before you go?
 
-> Dwight, you ignorant slut!
+> I. Declare. Bankruptcy!
 >
 > <p>- Michael Scott</p>
 
