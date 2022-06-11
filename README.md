@@ -87,9 +87,9 @@ I’m Arpit, an IIT Guwahati BTech Computer Science graduate, and now a software
 
 ## 📣 How about an Office quote before you go?
 
-> I had feelings today for a coworker that I haven't had in years... In my defense he was grabbing my crotch fairly aggressively at the time.
+> Shut up about the sun. SHUT UP ABOUT THE SUN!
 >
-> <p>- Jim Halpert</p>
+> <p>- Gabe Lewis</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
