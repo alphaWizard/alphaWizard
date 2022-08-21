@@ -87,9 +87,9 @@ I’m Arpit, an IIT Guwahati BTech Computer Science graduate, and now a software
 
 ## 📣 How about an Office quote before you go?
 
-> Once every hour, someone is involved in an internet scam. That man is Michael Scott.
+> Did I stutter?
 >
-> <p>- Pam Beesly</p>
+> <p>- Stanley Hudson</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
