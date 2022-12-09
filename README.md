@@ -87,9 +87,9 @@ I’m Arpit, an IIT Guwahati BTech Computer Science graduate, and now a software
 
 ## 📣 How about an Office quote before you go?
 
-> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
+> And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
 >
-> <p>- Andy Bernard</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
