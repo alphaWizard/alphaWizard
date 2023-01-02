@@ -87,9 +87,9 @@ I’m Arpit, an IIT Guwahati BTech Computer Science graduate, and now a software
 
 ## 📣 How about an Office quote before you go?
 
-> There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
+> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
 >
-> <p>- Pam Beesly</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
