@@ -12,19 +12,19 @@ I’m Arpit, an IIT Guwahati BTech Computer Science graduate, and now a software
 <!-- Want to know more about me? [Check out my portfolio.](https://github.com/alphaWizard) --> 
 
 
-## &#x1f4c8; GitHub Stats
+<!-- ## &#x1f4c8; GitHub Stats -->
 
-<br>
+<!-- <br> -->
 <!-- 
 <a href="https://github.com/alphaWizard">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphaWizard&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a> -->
 
-<a href="https://github.com/alphaWizard">
+<!-- <a href="https://github.com/alphaWizard">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=alphaWizard&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
+</a> -->
 
-<br>
+<!-- <br> -->
 
 <!-- ## 💼 Skills
 
@@ -87,9 +87,9 @@ I’m Arpit, an IIT Guwahati BTech Computer Science graduate, and now a software
 
 ## 📣 How about an Office quote before you go?
 
-> Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way.
+> I don't talk trash, I talk smack. They're totally different. Trash talk is hypothetical, like: Your mom is so fat she can eat the internet. But smack talk is happening like right now. Like: You're ugly and I know it for a fact 'cause I got the evidence right there.
 >
-> <p>- Michael Scott</p>
+> <p>- Kelly Kapoor</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
