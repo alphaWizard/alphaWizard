@@ -87,7 +87,7 @@ I’m Arpit, an IIT Guwahati BTech Computer Science graduate, and now a software
 
 ## 📣 How about an Office quote before you go?
 
-> There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
+> Once every hour, someone is involved in an internet scam. That man is Michael Scott.
 >
 > <p>- Pam Beesly</p>
 
